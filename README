@@ -1,0 +1,24 @@
+
+Python script to recursively unrar split archives in many directories.
+
+e.g.
+
+Archive 1/
+    archive1.r00
+    archive1.r01
+    archive1.rar
+    SubFolder/
+        subarchive.r00
+        subarchive.r01
+        subarchive.r02
+        subarchive.rar
+Archive 2/
+    archive2.part1.rar
+    archive2.part2.rar
+    archive2.part3.rar
+
+Should unrar the files and delete the rar files.
+Use at your own risk, It could unrar incorrectly and then delete all your files.
+
+I accept no responsibility for loss of data.
+
