@@ -1,5 +1,5 @@
 
-Python script to recursively unrar split archives in many directories.
+Python script to recursively unrar split archives in many directories, and then delete the rar files.
 
 e.g.
 
